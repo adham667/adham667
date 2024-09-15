@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">A Junior computer science student</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **adhamsaeed667@gmail.com**
 
